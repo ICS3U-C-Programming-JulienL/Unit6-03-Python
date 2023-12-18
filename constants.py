@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # Created By: Julien Lamoureux
-# Date: December 17, 2023
-# This program defines the constants for max_value.py
+# Date: December 18, 2023
+# This program defines the constants for min_value.py
 
 # declare constants
 MIN = 0

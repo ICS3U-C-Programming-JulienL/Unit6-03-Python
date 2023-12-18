@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created By: Julien Lamoureux
-# Date: December 17, 2023
+# Date: December 18, 2023
 # This program display the minimum of 10 values
 
 import random
